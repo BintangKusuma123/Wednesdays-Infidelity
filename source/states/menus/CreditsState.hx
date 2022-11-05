@@ -251,6 +251,13 @@ class CreditsState extends MusicBeatState
 			    'https://m.youtube.com/channel/UC06uotGEcdrePFau15BHxtQ',
 			    '636363'
 			],
+			[
+			    'Bintang Kusuma FNF Indo',
+			    'bintangkusuma',
+			    'Who can access Debug Feature',
+			    'https://m.youtube.com/channel/UC1Lod6ffcuWJhpPrfngu1Pg',
+			    '00BBFF'
+			],
 		];
 
 		for (i in pisspoop)
