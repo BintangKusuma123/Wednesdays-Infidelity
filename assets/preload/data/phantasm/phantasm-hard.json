@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "mouse-happy",
+		"player1": "mouse-smile-player",
 		"sectionLengths": [],
 		"notes": [
 			{
@@ -6915,7 +6915,7 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "suicide",
+		"player2": "suicide-player",
 		"gfVersion": "gf-invisible",
 		"events": [
 			[
@@ -6924,7 +6924,7 @@
 					[
 						"Change Character",
 						"bf",
-						"suicide"
+						"suicide-player"
 					],
 					[
 						"Flash White",
@@ -6944,7 +6944,7 @@
 					[
 						"Change Character",
 						"bf",
-						"mouse-happy"
+						"mouse-smile-player"
 					]
 				]
 			],
@@ -6954,7 +6954,7 @@
 					[
 						"Change Character",
 						"bf",
-						"suicide"
+						"suicide-player"
 					],
 					[
 						"Flash White",
@@ -6974,7 +6974,7 @@
 					[
 						"Change Character",
 						"bf",
-						"mouse-happy"
+						"mouse-smile-player"
 					]
 				]
 			],
@@ -6984,7 +6984,7 @@
 					[
 						"Change Character",
 						"bf",
-						"suicide"
+						"suicide-player"
 					],
 					[
 						"Flash White",
@@ -7004,7 +7004,7 @@
 					[
 						"Change Character",
 						"bf",
-						"mouse-happy"
+						"mouse-smile-player"
 					]
 				]
 			],
@@ -7014,7 +7014,7 @@
 					[
 						"Change Character",
 						"bf",
-						"suicide"
+						"suicide-player"
 					],
 					[
 						"Flash White",
@@ -7034,7 +7034,7 @@
 					[
 						"Change Character",
 						"bf",
-						"mouse-happy"
+						"mouse-smile-player"
 					]
 				]
 			]
@@ -7042,7 +7042,7 @@
 		"player3": null,
 		"song": "Phantasm",
 		"stage": "vecindario",
-		"needsVoices": true,
+		"needsVoices": false,
 		"sections": 0,
 		"validScore": true,
 		"bpm": 160,
